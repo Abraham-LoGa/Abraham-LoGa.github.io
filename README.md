@@ -1,4 +1,4 @@
 # Abraham-LoGa.github.io
-Api Weather Consume/n
+Api Weather Consume
 Consult site
 https://abraham-loga.github.io
